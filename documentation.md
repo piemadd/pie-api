@@ -15,3 +15,12 @@ Sends back a piece of an array with a fact with id "x".
 
 #### http://pie-api--pieromqwerty.repl.co/galaxy/index
 Sends back the whole array of facts. Not sure what you would do with this though...
+
+#### http://pie-api--pieromqwerty.repl.co/egirl/rand/
+Sends back a pice of an array with a random profile along with that profile's id.
+
+#### http://pie-api--pieromqwerty.repl.co/egirl/spec/[x]/ 
+Sends back a piece of an array with a profile with id "x".
+
+#### http://pie-api--pieromqwerty.repl.co/egirl/index
+Sends back the whole array of egirls. Not sure what you would do with this though...
