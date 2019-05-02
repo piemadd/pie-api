@@ -13,5 +13,5 @@ Sends back a pice of an array with a random fact about space along with that fac
 #### http://pie-api--pieromqwerty.repl.co/galaxy/spec/[x]/ 
 Sends back a piece of an array with a fact with id "x".
 
-####http://pie-api--pieromqwerty.repl.co/galaxy/index
+#### http://pie-api--pieromqwerty.repl.co/galaxy/index
 Sends back the whole array of facts. Not sure what you would do with this though...
